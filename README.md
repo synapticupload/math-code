@@ -1,2 +1,2 @@
 # math-code
-Concept code for various mathematics I'm learning, mainly to familiarize myself with the math libraries.
+Small programs to simply be familiar with math functions.
